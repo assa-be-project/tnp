@@ -1,0 +1,51 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+
+   .personal_detail{
+  
+  }
+  .guardian_detail{
+  
+  }
+  
+  .educational_detail{
+
+  }
+  
+  
+  button.submit { 
+    background-color: #4CAF50;
+    color: white;
+    width: 100px;
+    height:32px;
+    top:3030px;
+    position:absolute;
+    left:1200px;
+} 
+
+button.reset {
+    background-color: #4CAF50;
+    color: white;
+    top:3030px;
+    width: 100px;
+    height:32px;
+    position:absolute;
+    left:1000px;
+} 
+
+.container{
+	width:1350px;
+	height:3070px;
+	position:absolute;
+	
+
+}
+ 
+ .achievement_hobbies{
+ 
+ }
+
+.star{
+      color:red;
+}
+
+

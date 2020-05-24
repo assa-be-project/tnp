@@ -1,0 +1,122 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+a{
+	text-decoration:none;
+}
+
+.maincontainer {
+	width:1350px;
+	height:780px;
+	border:1px solid #ccc;
+background-color:#ecf0f1
+}
+
+
+img.profilelogo {
+    width: 35%;
+    
+}
+img.profilelogo:hover {
+    opacity: 0.8;
+}
+
+
+.container {
+    position:absolute;
+   	width:300px;
+	height:690px;
+	border:1px solid #ccc;
+    text-align:center;
+    top:84px;
+    left:15px;
+   box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+    
+    
+}
+.choice{
+	position:absolute;
+	width:280px;
+	height:150px;
+	border:2px solid #ccc;
+	left:7px;
+	top:240px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+	
+	
+}
+
+.admin{
+	top:25px;
+	position:absolute;
+	width:200px;
+	height:40px;
+	text-align:center;
+	left:40px;
+}
+
+.adminbullet{
+	top:20px;
+	position:absolute;
+	width:60px;
+	height:30px;
+	text-align:center;
+	
+}
+
+
+img.adminlogo {
+    width: 50%;
+    
+}
+img.adminlogo:hover {
+    opacity: 0.8;
+}
+
+.link{
+	
+}
+
+.student{
+	top:80px;
+	position:absolute;
+	width:200px;
+	height:40px;
+	text-align:center;
+	left:40px;
+}
+
+.studentbullet{
+	top:75px;
+	position:absolute;
+	width:60px;
+	height:30px;
+	text-align:center;
+	
+}
+
+
+img.studentlogo {
+    width: 50%;
+    
+}
+img.studentlogo:hover {
+    opacity: 0.8;
+}
+
+.framecontainer {
+
+   	width:1350px;
+	height:50px;
+	border:1px solid #ccc;
+    text-align:center;    
+    
+}
+.iframecss{
+	width:1021px;
+	height:690px;
+	position:absolute;
+	top:84px;
+    left:325px;
+     box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+    
+}
+
